@@ -1,0 +1,42 @@
+*{
+  font-family: "Comic Sans MS";
+  font-style: italic;
+  text-shadow:
+}
+
+
+.column {
+  width: 30%;
+  float: left;
+  padding-left: 10px;
+}
+
+img {
+  display: block;
+  max-width: 250px;
+  max-height: 150px;
+  height: auto;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.title{
+  text-align: center;
+}
+
+
+.description{
+  color: pink;
+  font-family: "Comic Sans MS";
+  background-color: red;
+  font-size: 24px;
+  border: 10px dotted black;
+}
+
+body{
+  background-color: brown;
+}
+
+.name{
+  font-style: "Comic Sans MS";
+}
